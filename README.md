@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am just a retard on the internet doing who knows what.<br/>
+
+Check out some of the worse code on the all of github here<br/>
+
+-----------------------------------------------------------<br/>
+
+### Guten Tag 👋
+
+Ich bin sehr blöd.
+
 <!--
 **Auverus/Auverus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
