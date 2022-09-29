@@ -9,8 +9,8 @@ Check out some of the worse code on the all of github here<br/>
 ### Guten Tag 👋
 
 Ich bin sehr blöd.<br/>
-<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=Auverus&count_private=true" alt="Stats1"/>
-<img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMillieuh&layout=compact&theme=tokyonight" alt="Stats2"/>
+<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=Auverus&count_private=true&theme=tokyonight" alt="Stats1"/>
+<img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auverus&layout=compact&theme=tokyonight" alt="Stats2"/>
 
 
 <!--
