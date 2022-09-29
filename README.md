@@ -11,7 +11,8 @@ Check out some of the worse code on the all of github here<br/>
 Ich bin sehr blöd.<br/>
 
 
-### Some stats to show how stupid I am:
+### Some stats to show how stupid I am:<br/>
+<br/>
 <img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=Auverus&count_private=true" alt="Stats1"/>
 <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auverus&layout=compact&count_private=true" alt="Stats2"/>
 
