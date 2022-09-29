@@ -10,7 +10,7 @@ Check out some of the worse code on the all of github here<br/>
 
 Ich bin sehr blöd.<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auverus&count_private=true)
+<img style="height:150px"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auverus&count_private=true)/>
 
 
 
