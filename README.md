@@ -8,7 +8,11 @@ Check out some of the worse code on the all of github here<br/>
 
 ### Guten Tag 👋
 
-Ich bin sehr blöd.
+Ich bin sehr blöd.<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+
 
 <!--
 **Auverus/Auverus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
