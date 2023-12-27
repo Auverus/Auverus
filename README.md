@@ -2,7 +2,7 @@
 
 I am just a random on the internet doing who knows what.<br/>
 
-Check out some of the worse code on the all of github here<br/>
+:)<br/>
 
 -----------------------------------------------------------<br/>
 
