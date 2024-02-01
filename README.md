@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-I am just a random on the internet doing who knows what.<br/>
-
-:)<br/>
-
------------------------------------------------------------<br/>
-
-### Guten Tag 👋
-
-.<br/>
-
-
 ### useless stats:<br/>
 <br/>
 <img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=Auverus&count_private=true" alt="Stats1"/> 
